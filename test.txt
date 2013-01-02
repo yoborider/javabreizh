@@ -1,1 +1,2 @@
 Hello World !
+mvn archetype:create -DgroupId=com.yoborider -DartifactId=javabreizh -Dversion=1.0
